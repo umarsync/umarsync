@@ -1,9 +1,9 @@
 # Hi there, I'm Umar! 👋  
 
 🌐 **Kernel Developer | Lifelong Learner**  
-📍 Gainesville, Florida  
+📍 India 
 
-Welcome to my GitHub profile! I’m passionate about **operating systems**, **low-level programming**, and **system architecture**. I’m currently a student at **Santa Fe College**, where I’m constantly exploring the intersection of hardware and software.  
+Welcome to my GitHub profile! I’m passionate about **operating systems**, **low-level programming**, and **system architecture**. I’m constantly exploring the intersection of hardware and software.  
 
 ## 🔧 **Technologies & Tools**  
 - **Languages**: C, C++, Python, Assembly  
@@ -21,5 +21,5 @@ I’m passionate about open-source and love contributing to projects. Check out 
 
 ## 📫 **Let’s Connect!**  
 I’m always open to collaborating on interesting projects or discussing tech. Feel free to reach out:  
-- **Email**: [umar.pathan@go.sfcollege.edu](mailto:umar.pathan@go.sfcollege.edu)    
+- **Email**: [umar.pathan@mail.com](mailto:umar.pathan@mail.com)    
 - **Twitter**: [@Umar](https://x.com/umar)
